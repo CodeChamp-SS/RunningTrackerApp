@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Running Tracker App</string>
+    <string name="maps_API_KEY">Your API Key Here</string>
+    <string name="running_app">Running App</string>
+    <string name="welcome">Welcome!\nPlease enter your name and weight.</string>
+    <string name="name">Your Name</string>
+    <string name="wt">Your Weight</string>
+    <string name="start">Start</string>
+    <string name="finish">Finish Run</string>
+    <string name="lets_go">Let\'s go, USERNAME!</string>
+    <string name="reset_timer">00 : 00 : 00 : 00</string>
+    <string name="sort_by">Sort by:</string>
+    <string name="apply_changes">Apply Changes</string>
+    <string name="date">DATE</string>
+    <string name="time">TIME</string>
+    <string name="dist">DISTANCE</string>
+    <string name="avgspeed">AVGSPEED</string>
+    <string name="calories">CALORIES</string>
+    <string name="settings">Settings</string>
+    <string name="your_runs">Your Runs</string>
+    <string name="statistics">Statistics</string>
+    <string name="cancel_run">Cancel Run</string>
+
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+</resources>
